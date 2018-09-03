@@ -12,6 +12,15 @@
   },
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "glob": "^5.0.15",
+    "inquirer": "1.1.2",
+    "mkdirp": "^0.5.1",
+    "plist": "^3.0.1",
+    "which": "^1.2.11",
+    "xcode": "^1.0.0"
+  },
   "bugs": {
     "url": "https://github.com/moriarty1900/react-native-foocaa-link-scripts/issues"
   },
