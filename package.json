@@ -1,0 +1,19 @@
+{
+  "name": "react-native-foocaa-link-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moriarty1900/react-native-foocaa-link-scripts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moriarty1900/react-native-foocaa-link-scripts/issues"
+  },
+  "homepage": "https://github.com/moriarty1900/react-native-foocaa-link-scripts#readme"
+}
